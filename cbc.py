@@ -24,7 +24,7 @@ def decrypt_cbc(ciphertext, key, iv):
     return plaintext.decode()
 
 # Streamlit UI
-st.title("🔐 AES CBC Mode Encryption & Decryption")
+st.title("AES CBC Mode Encryption & Decryption")
 
 text = st.text_area("Enter Text to Encrypt", "Hello CBC Mode in Streamlit!")
 
