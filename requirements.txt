@@ -1,2 +1,4 @@
 streamlit
 cryptography
+spacy
+nltk
