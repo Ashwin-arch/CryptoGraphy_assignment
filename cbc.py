@@ -86,7 +86,7 @@ if page == "Home":
     st.title("AES CBC Mode Encryption with RSA Key Protection")
     st.markdown("""
     **Subject:** BCS703 – Cryptography and Network Security  
-    **Student:** Ashwin Kumar G Rao  and Gagan
+    **Student:** Ashwin Kumar G Rao  and Gagan **  **
     **College:** Shri Madhwa Vadiraja Institute of Technology and Management, Bantakal  
 
     ---
