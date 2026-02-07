@@ -1,0 +1,12 @@
+OSINT CASE REPORT
+=================
+
+Case: Dermat
+Generated: 2026-02-07 09:04:21.599731
+
+Findings:
+- Username OSINT
+- Image OSINT
+
+Conclusion:
+Pending analyst review.

@@ -1,0 +1,12 @@
+OSINT CASE REPORT
+=================
+
+Case: wet
+Generated: 2026-02-07 09:13:01.135623
+
+Findings:
+- Username OSINT
+- Image OSINT
+
+Conclusion:
+Pending analyst review.
